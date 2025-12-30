@@ -341,7 +341,7 @@ body {
 .step-number {
     width: 48px;
     height: 48px;
-    background: linear-gradient(135deg, var(--accent) 0%, #cc0000 100%);
+    background: linear-gradient(135deg, var(--accent) 0%, #0400ff 100%);
     color: var(--bg-primary);
     border-radius: var(--radius);
     display: flex;
@@ -515,7 +515,7 @@ body {
 }
 
 .btn.primary {
-    background: linear-gradient(135deg, var(--accent) 0%, #990000 100%);
+    background: linear-gradient(135deg, var(--accent) 0%, #0400ff 100%);
     color: #fff;
     border: none;
     box-shadow: 0 4px 15px var(--accent-glow), inset 0 1px 0 rgba(255, 255, 255, 0.2);
