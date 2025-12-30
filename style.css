@@ -12,14 +12,14 @@
     --text-primary: #ffffff;
     --text-secondary: #b0b0b0;
     --text-muted: #666666;
-    --accent: #ff0000;
-    --accent-hover: #ff3333;
-    --accent-glow: rgba(255, 0, 0, 0.3);
+    --accent: #0400ff;
+    --accent-hover: #4733ff;
+    --accent-glow: rgba(17, 0, 255, 0.3);
     --border: #333333;
     --border-light: #444444;
     --success: #00ff88;
     --warning: #ffaa00;
-    --danger: #ff4444;
+    --danger: #ff0000;
     --shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
     --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.5);
     --shadow-glow: 0 0 20px var(--accent-glow);
@@ -984,4 +984,5 @@ body {
 
 .notification-popup.show {
     transform: translateX(0);
+
 }
