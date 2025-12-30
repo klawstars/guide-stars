@@ -276,7 +276,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Complete C++ redistributables pack"
                         }
                     ]
@@ -410,7 +410,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Complete C++ redistributables pack"
                         }
                     ]
@@ -647,7 +647,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Pack complet des redistributables C++"
                         }
                     ]
@@ -781,7 +781,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Pack complet des redistributables C++"
                         }
                     ]
@@ -1018,7 +1018,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Vollständiges C++ Redistributables-Paket"
                         }
                     ]
@@ -1152,7 +1152,7 @@ const guidesTranslations = {
                     downloads: [
                         {
                             name: "Visual C++ Redistributable All-in-One",
-                            url: "https://github.com/abbodi1406/vcredist/releases",
+                            url: "https://aka.ms/vc14/vc_redist.x64.exe",
                             description: "Vollständiges C++ Redistributables-Paket"
                         }
                     ]
@@ -1481,4 +1481,5 @@ class LanguageManager {
 }
 
 const languageManager = new LanguageManager();
+
 
