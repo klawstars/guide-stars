@@ -1,7 +1,7 @@
 const translations = {
     en: {
 
-        title: "Stars Services",
+        title: "Vortech Cheats",
         subtitle: "Configuration Guide",
         subtitleDownloads: "Downloads",
         discord: "Discord",
@@ -68,7 +68,7 @@ const translations = {
     },
 
     fr: {
-        title: "Stars Services",
+        title: "Vortech Cheats",
         subtitle: "Guide de Configuration",
         subtitleDownloads: "Téléchargements",
         discord: "Discord",
@@ -132,7 +132,7 @@ const translations = {
     },
 
     de: {
-        title: "Stars Services",
+        title: "Vortech Cheats",
         subtitle: "Konfigurationsanleitung",
         subtitleDownloads: "Downloads",
         discord: "Discord",
@@ -1481,3 +1481,4 @@ class LanguageManager {
 }
 
 const languageManager = new LanguageManager();
+
